@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0; 
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #c7f9cc;
+    display: flex;
+    justify-content:space-around;
+    font-size: 1.5rem;
+    padding: 20px;
+}
+h2{
+    margin-top:1rem; 
+    color: #22577a
+}
+nav{
+    margin-top: 1rem;
+}

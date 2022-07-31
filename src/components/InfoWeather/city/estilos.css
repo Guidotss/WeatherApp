@@ -1,0 +1,11 @@
+h5{
+    font-size: 1.5rem;
+}
+
+.containerCity{
+    background-color: black;
+    padding: 20px;
+    background: linear-gradient(to right, black,gray);
+    width:100%;
+    border-radius: 2px;
+}
